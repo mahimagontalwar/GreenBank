@@ -26,13 +26,13 @@ const Herosection = () => {
                     </div>
                 </div>
             </div>
-            {/* <div className=''>
+            <div className=''>
                 <div className='absolute top-64 right-0'>
-                    <svg width="419" height="492" viewBox="0 0 419 492" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <svg width="219" height="292" viewBox="0 0 419 492" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="246" cy="246" r="246" fill="#2BB32A" />
                     </svg>
                     <div className='absolute -top-10 right-32'>
-                        <svg width="611" height="467" viewBox="0 0 611 467" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg width="330" height="280" viewBox="0 0 611 467" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g filter="url(#filter0_b_1_65)">
                                 <rect x="84.1182" y="-6" width="551.298" height="348.188" rx="32" transform="rotate(15 84.1182 -6)" fill="url(#paint0_linear_1_65)" fillOpacity="0.37" />
                                 <rect x="84.1182" y="-6" width="551.298" height="348.188" rx="32" transform="rotate(15 84.1182 -6)" stroke="url(#paint1_linear_1_65)" strokeOpacity="0.5" strokeWidth="2" />
@@ -57,7 +57,7 @@ const Herosection = () => {
                     </div>
                 </div>
 
-            </div> */}
+            </div>
         </div>
     );
 };

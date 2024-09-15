@@ -1,0 +1,126 @@
+.faq-section {
+    padding: 2rem;
+    background-color: #0a0e15;
+    color: white;
+  }
+  
+  .faq-item {
+    border-bottom: 1px solid #999;
+    padding: 1rem 0;
+  }
+  
+  .faq-question {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  
+  .faq-answer {
+    padding-top: 0.5rem;
+  }
+  
+  footer {
+    background-color: #0a0e15;
+    color: white;
+    padding: 3rem 2rem;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .footer-links div h3, footer p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-links div ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links div ul li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .footer-note {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .app-section {
+    max-width: 250px;
+  }
+  
+  .app-buttons img {
+    width: 120px;
+    margin-right: 1rem;
+  }
+/* Main Section */
+.app-promotion-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #0a0e15;
+    color: white;
+    height: 100vh; /* Full-screen height */
+  }
+  
+  .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    width: 100%;
+    align-items: center;
+  }
+  
+  /* Left Side Text */
+  .text-content {
+    flex: 1;
+    padding-right: 2rem;
+  }
+  
+  .text-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .text-content p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Download buttons */
+  .download-buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .download-buttons a {
+    display: inline-block;
+  }
+  
+  .download-buttons img {
+    width: 150px; /* Adjust button sizes */
+  }
+  
+  /* Right Side Image */
+  .image-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .mobile-app-image {
+    max-width: 100%;
+    height: auto;
+    transform: rotate(-5deg); /* Optional: slight rotation to match design */
+  }
+    
