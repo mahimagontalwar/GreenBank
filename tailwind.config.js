@@ -10,7 +10,7 @@ export default {
       colors: {
         'primary-green': '#2BB32A'
       }
-    }
+    } 
   },
   plugins: []
 }
