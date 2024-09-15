@@ -8,7 +8,7 @@ export default {
         secondary: '#ADB2B1'
       },
       colors: {
-        'primary-green': '#2BB32A'
+        'primary-green': '#2BB32A' 
       }
     } 
   },
